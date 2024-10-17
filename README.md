@@ -26,3 +26,5 @@ The program scans a specified directory, identifies file extensions, and moves t
 1. Clone or download the repository.
 2. Run the `gui.py` file to launch the graphical user interface.
 3. Specify the directory you want to organize, and the program will automatically categorize and move files into folders based on their extensions.
+
+   
